@@ -1,0 +1,71 @@
+/* the styles for the elements */
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 100%;
+    width: 600px;
+    margin: 0 auto;
+    right-margin: auto;
+    border: 3px solid #931420;
+    background-color: #fffded;
+}
+html {
+    background-color: white;
+}
+.shadow {
+	text-shadow: 2px 2px 2px #800000;
+}
+
+
+/* the styles for the header section */
+header img {
+    float: left;
+    margin-right: 2em;
+}
+
+header text {
+    float: right;
+}
+header {
+    background-color: #fffded;
+    color: white;
+    padding: 5px;
+    border: 3px solid #931420;
+
+}
+/* heading elements*/
+h1 {
+    font-size: 180%;
+    color: #800000
+}
+h2 {
+    font-size: 170%;
+    color: #800000;
+}
+h3 {
+    font-size: 130%;
+}
+h4 {
+	font-size: 160%;
+}
+
+/* for italics link */
+a:hover {
+	font-style: italic;
+}
+a:focus{
+	font-style: italic;
+}
+
+/* the styles for the footer section */
+main {
+	clear: left;
+}
+footer{
+	text-align: center;
+    font-size: 15px;
+    background-color: maroon;
+    color: white;
+    padding: 5px;
+}
+/* the styles for the footer */
+
